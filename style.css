@@ -136,7 +136,7 @@ ul {
 .hero {
     min-height: 100vh;
     padding: 0 2rem;
-    background: url('images/pre-mary-hero.png') center center / cover no-repeat;
+    background: url('images/pre-mary-hero.png') center center/cover no-repeat;
     position: relative;
     display: flex;
     justify-content: center;
