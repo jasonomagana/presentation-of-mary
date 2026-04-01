@@ -1,0 +1,106 @@
+[
+    {
+        "day": "Holy Thursday / Jueves Santo",
+        "date": "April 2nd, 2026 / 2 de abril del 2026",
+        "events": 
+        [
+            {
+                "time": "8:00 AM",
+                "title": "Rezo de Laudes y Oración de la Mañana"
+            },
+            {
+                "time": "7:00 PM",
+                "title": "Misa de la Eucaristia"
+            },
+            {
+                "time": "Despues de Misa",
+                "title": "Adoracion al Santisimo hasta las 11:45pm"
+            }
+        ]
+    },
+    {
+        "day": "Good Friday / Viernes Santo",
+        "date": "April 3rd, 2026 / 3 de abril del 2026",
+        "events": 
+        [
+            {
+                "time": "8:00 AM",
+                "title": "Rezo de Laudes y Oración de la Mañana"
+            },
+            {
+                "time": "12:00 PM",
+                "title": "Via Crucis Vivente / Way of the Cross"
+            },
+            {
+                "time": "6:00 PM",
+                "title": "Oficios Litúrgicos de la Tarde / Evening Liturgical Services"
+            },
+            {
+                "time": "After Service",
+                "title": "Adoración y Veneración de la Santa Cruz, seguida por Procesión"
+            }
+        ]
+    },
+    {
+        "day": "Holy Saturday / Sabado Santo",
+        "date": "April 4th, 2026 / 4 de abril del 2026",
+        "events": 
+        [
+            {
+                "time": "8:00 AM",
+                "title":"Rezo de Laudes y Oración de la Mañana"
+            },
+            {
+                "time": "10:00 AM",
+                "title": "Ensayo para Catecumenos (RICA-Adultos)"
+            },
+            {
+                "time": "3:00 PM",
+                "title": "Rezo de la Novena a la Divina Misericordia"
+            }, 
+            {
+                "time": "7:00 PM",
+                "title": "Misa de la Vigilia Pascual"
+            }
+        ]
+    },
+    {
+        "day": "Easter Sunday / Domingo de Pascua",
+        "date": "April 5th, 2026 / 5 de abril del 2026",
+        "events": 
+        [
+            {
+                "time": "6:30 AM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "8:00 AM",
+                "title": "Bilingual Mass"
+            },
+            {
+                "time": "9:30 AM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "11:00 AM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "12:30 PM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "2:00 PM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "4:00 PM",
+                "title": "Misa en Español"
+            },
+            {
+                "time": "7:00 PM",
+                "title": "Misa en Español"
+            }
+        ]
+    }
+]
